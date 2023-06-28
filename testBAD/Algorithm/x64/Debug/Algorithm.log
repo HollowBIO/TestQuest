@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\source\SDLLearn\Algorithm\Algorithm\main.cpp(13,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\SDLLearn\Algorithm\Algorithm\main.cpp(35,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Algorithm.vcxproj -> C:\Users\User\source\SDLLearn\Algorithm\x64\Debug\Algorithm.exe
